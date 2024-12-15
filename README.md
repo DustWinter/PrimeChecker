@@ -1,6 +1,6 @@
 # PrimeChecker
 
-A simple Python function that checks if a number is prime using a custom formula.
+A simple Python function that checks if an odd number is prime using a custom formula.
 
 ## How to Use
 
