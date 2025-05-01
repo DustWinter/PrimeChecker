@@ -1,4 +1,4 @@
-# PrimeChecker
+# PrimeCheck1
 
 Complexity = √n
 
