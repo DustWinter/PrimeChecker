@@ -1,4 +1,9 @@
 def PrimeCheck1(number):
+    if n < 3:
+        return
+
+    if n%2 == 0:
+        return False
     a=1
     while ( (((number-1)/2)-a) / ((2*a)+1) ) >= 1:
         if (((number-1)/2)-a) % ((2*a)+1) == 0:
