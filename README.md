@@ -10,7 +10,7 @@ A simple Python function that checks if an odd number is prime using a custom fo
 from PrimeCheck import PrimeCheck
 
 number = 17
-is_prime = PrimeCheck(number)  # Returns True
+is_prime = PrimeCheck1(number)  # Returns True
 ```
 
 ## How it Works
